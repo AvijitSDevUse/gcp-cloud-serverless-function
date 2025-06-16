@@ -1,2 +1,3 @@
 # gcp-cloud-serverless-function
-Practice gcp serverless cloud function which i'll keep building on
+Practice gcp serverless cloud function which i'll keep building on.
+TEST TEST TEST
